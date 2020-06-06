@@ -1,0 +1,1 @@
+Hello frind, this my project directory about the shell, I/O Redirections and filters.
